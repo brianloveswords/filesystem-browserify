@@ -1,0 +1,28 @@
+{
+  "name": "filesystem-browserify",
+  "version": "0.0.1",
+  "description": "node's fs in yo' browser",
+  "main": "index.js",
+  "dependencies": {
+    "browserify": "~1.17.2",
+    "fileliststream": "~0.0.1",
+    "idb-wrapper": "~0.3.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/brianloveswords/filesystem-browserify.git"
+  },
+  "keywords": [
+    "fs",
+    "browserify",
+    "filesystem"
+  ],
+  "author": "Brian J. Brennan",
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "gitHead": "d890859e9e56aa1369b175d1e80cdaf7fb157b67"
+}
