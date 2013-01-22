@@ -8,4 +8,14 @@ of [IDBWrapper](http://jensarps.github.com/IDBWrapper/))
 
 # what's implemented
 
+* `fs.readdir`
+* `fs.readFile`
+* `fs.writeFile`
+* `fs.unlink`
+* `fs.rename`
+* `fs.createReadStream`
+* `fs.createWriteStream`
 
+# tests
+
+I need 'em.
